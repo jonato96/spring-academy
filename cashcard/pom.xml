@@ -11,8 +11,8 @@
 	<groupId>spring.academy</groupId>
 	<artifactId>cashcard</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Cashcard</name>
-	<description>Cashcard project for Spring Boot</description>
+	<name>CashCard</name>
+	<description>CashCard project for Spring Boot</description>
 	<url/>
 	<licenses>
 		<license/>
